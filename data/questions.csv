@@ -1,21 +1,51 @@
 ﻿Year,Question_No,Question_Text,Topic
-2016,1,What is the main function of an operating system?,Operating Systems
-2016,2,Convert the binary number 10101 to decimal.,Number Systems
-2016,3,Explain the difference between LAN and WAN.,Networking
-2016,4,Write an algorithm to find the largest number in an array.,Programming
-2017,1,Name three output devices of a computer.,Computer Systems
-2017,2,What is the purpose of a primary key in a database table?,Database
-2017,3,Write HTML code to create a simple web page with a heading and a paragraph.,Web Technologies
-2017,4,Describe two methods of protecting a computer from viruses.,Security
-2018,1,Define the term “flowchart” and state its uses.,Programming
-2018,2,Differentiate between static and dynamic websites.,Web Technologies
-2018,3,Mention two advantages of cloud computing.,Emerging Tech
-2018,4,Write SQL query to display all records from a table named Students.,Database
-2019,1,List the components of a computer system.,Computer Systems
-2019,2,What is the role of a router in a network?,Networking
-2019,3,Explain the use of CSS in web development.,Web Technologies
-2019,4,What is the purpose of using loops in programming?,Programming
-2020,1,Explain the difference between RAM and ROM.,Computer Systems
-2020,2,Describe any two multimedia file formats.,Multimedia
-2020,3,What is encryption and why is it important?,Security
-2020,4,Draw and explain the symbol of a NAND gate.,Logic Gates
+2019,1,Which of the following devices have both input and input and output capabilities?,
+2019,2,Which of the following can be a good practice  to protect data and information from computer hard disk failures? ,
+2019,3,Which of the following is o is correct regarding the generations of computers?,
+2019,4,Which of the following are related to G2C (Government to Citizen) services in Sri Lanka?,
+2019,5,Which of the following is an example for data processing?,
+2019,6,"Select the most suitable computer type from a super computer, a laptop computer and a tablet computer, for the following applications:",
+2019,7,"Consider the following statement with blanks labelled 'A' and 'B': When processing, the CPU uses it’s 'A' to temporarily store data that are brought from 'B'. Which of the following combinations is suitable to fill the blanks labelled 'A' and 'B' respectively?",
+2019,8,Which of the following are correct regarding transmission media? A - Unshielded Twisted Pair (UTP) cables are suitable to transmit data for long distances over 200 m. B - Fiber optic cables transmit data faster than UTP cables. C - Infrared data transmission is used in wireless keyboards to communicate with computers.,
+2019,9,Which of the following statements are true? A - Binary form is used to store data and instructions in computers. B - 945 is a valid number both in the octal and hexadecimal number systems. C - 4128 is equivalent to 1000010102.,
+2019,10,Which of the following shows the given storage components in descending order of access speed?,
+2019,11,"If character 'E' is represented in the ASCII table as 6910, what is the binary representation of character G in the ASCII table?",
+2019,12,Which of the following contains only the tasks of an operating system?,
+2019,13,Which of the following techniques can be used to increase the free space of a hard disk without deleting any existing files?,
+2019,14,"While editing a document using a word processing software, you decide to copy a selected part of the document to another document. Which of the following key combinations will enable you to carry out this task?",
+2019,15,Consider the range of cells given as (A3:C4) in a spreadsheet. Which of the following cells are included in this range?,
+2019,16,Consider the following spreadsheet segment with the formula =B2 * B$5 written into cell C2: What would be displayed in the cell C3 if the formula in cell C2 was copied to cell C3?,
+2019,17,You want to add a blank slide to an electronic presentation that you are editing. Which of the following key combinations can be used for this purpose?,
+2019,18,Which of the following features of electronic presentation software can be used to change the content arrangement of a slide from Arrangement Arrangement 1 to Arrangement 2?,
+2019,19,Which of the following is not a common feature of both word processing and electronic presentation software?,
+2019,20,Which of the following is suitable in order to improve the quality of an electronic presentation?,
+2019,21,"Questions 21 to 24 are based on the following partly shown database tables that are used to store data about books, students, and books reserved by students in a school library. Table: Book (Contains the details of books and whether each book is reserved or not.) Book HD Title Reserved B0001 Effective Writing TRUE B0002 Classic Short Stories TRUE B0003 Poem Writing FALSE B0004 Vocal Theory TRUE Table: Student (Contains details of all students in school and whether each student is a library member or not.) ember Student Name Student_ID Grade Library Member Piyal 1001 7 TRUE Kumar Ismail 1002 9 TRUE Sunil 1003 8 TRUE Sarath 1004 10 FALSE 1005 7 Table: Reservation (Contains details about books reserved by students) TRUE Student ID Reserved Date Book ID 1003 02/03/2019 B0002 1002 23/04/2019 B0001 1005 16/06/2019 B0004 21. How many fields are in the Student table?",
+2019,22,What would be an example of a foreign key in the database?,
+2019,23,What is the title of the book reserved by kumar?,
+2019,24,A student gets the library membership and reserves a book. What tables need to be updated for this purpose?,
+2019,25,Which of the following shows the correct order of testing a software system?,
+2019,26,Every web page on the World Wide Web (WWW) has a unique identifier called the,
+2019,27,Which of the following combinations contains only Internet related protocols?,
+2019,28,Which of the following combinations represents only the services of the Internet?,
+2019,29,Consider the following list rendered by a web browser: Science Maths English Which of the following HTML tags are required to create the above list?,
+2019,30,Which of the following statements related to web page development are correct?,
+2019,31,Which of the following tags can be used for HTML character formatting?,
+2019,32,Which of the following is the correct posture to use when using a computer?,
+2019,33,How many bits per pixel (bpp) are required to represent 32 colours?,
+2019,34,What would happen to an image if its resolution is decreased?,
+2019,35,Which of the following statements are true? A - Pascal is an example of a high-level programming language. B - High-level language programs are easier for the programmers to understand than low-level language programs. C - A compiler translates a high-level language program into machine language instructions.,
+2019,36,"Consider the following pseudo-code segment: BEGIN
+READ units
+IF units <=50 THEN
+ELSE
+amount units 1
+ELSE
+IF units 50 AND units <= 150 THEN amount=50+ (units 50)*2 amount 250+ (units 150)*5
+ENDIF
+ENDIF
+DISPLAY amount.
+END     What would be the output if the value 175 is input for the variable units?",
+2019,37,"What would be the output if a user inputs the numbers 4, 5, 2, 1 one after the other for the following pseudo-code segment? terminal= -1 x=0 REPEAT DISPLAY ""Enter number"" GET num IF num>x THEN x= num ENDIF UNTIL num= terminal DISPLAY x",
+2019,38,Consider the following statements regarding computer programs: A - Variables can contain different values at different times. B - Reserved words of a programming language can be used as variable names in that language. Which of the following is true with respect to the above?,
+2019,39,"Consider the following pseudo-code: READ a, b, c value = 0 IF (a>b) THEN IF (a>c) THEN value = a ELSE value = c ENDIF ENDIF DISPLAY value If the values input for the variables a, b and c are 50, 30 and 70 respectively, what would be the displayed output?",
+2019,40,"If 0 and 1 respectively are given as inputs for X in the following logic circuit, what would be the two respective outputs Y?",
